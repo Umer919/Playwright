@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../Signal_Clone-main/node_modules"
+		}
+	],
+	"settings": {}
+}
